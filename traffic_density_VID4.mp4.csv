@@ -1,0 +1,6 @@
+video,frame,car_count,bus_count,truck_count,total_vehicles,traffic_density (vehicles/km)
+VID4.mp4,1,17,1,0,18,36.0
+VID4.mp4,2,21,0,1,22,44.0
+VID4.mp4,3,22,1,0,23,46.0
+VID4.mp4,4,16,1,0,17,34.0
+VID4.mp4,5,18,1,0,19,38.0

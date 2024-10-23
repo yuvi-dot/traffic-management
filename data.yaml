@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['cars']
+
+roboflow:
+  workspace: rajvardhan-singh
+  project: vehicle-detection-nzvz6
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rajvardhan-singh/vehicle-detection-nzvz6/dataset/1
